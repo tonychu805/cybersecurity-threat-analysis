@@ -1,7 +1,7 @@
 # cybersecurity-threat-analysis
 
 
-In this section, we delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
+In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
 
 The analysis of vulnerabilities across different products showed that Windows had the highest incidence, with 311 reported vulnerabilities, making it the most affected. It was followed by the Flash Player at 116, Internet Explorer at 96, Office at 81, and Win32k at 80 vulnerabilities. This underscores the necessity for enhanced security protocols for these widely utilized products.
 
