@@ -3,6 +3,7 @@
 ## Summary:
 
 Introduction: The notebook focuses on analyzing cybersecurity threat data, aiming to merge multiple CSV files, perform exploratory data analysis (EDA), and apply statistical and machine learning techniques to extract insights.
+
 Exploratory Data Analysis (EDA):
 - Data Structure and Cleaning: Overview of the dataset structure, removal of unnecessary columns, and conversion of date columns to datetime format.
 - Descriptive Statistics and Visualization: Generating summary statistics and visualizations such as bar plots, histograms, and heatmaps to understand data distributions and relationships.
