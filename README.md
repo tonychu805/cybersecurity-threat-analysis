@@ -55,11 +55,11 @@
     	•	Median Patching Time: 1064 days.
     	•	Average Patching Time: 1396.8 days.
 
-Git Repository Content:
+## Git Repository Content:
 
 - The notebook does not explicitly mention the Git repository content, but it implies that the repository contains scripts for data loading, merging, EDA, and statistical analysis.
 
-Dependencies and Libraries:
+## Dependencies and Libraries:
 
 - Pandas: For data manipulation and analysis.
 - NumPy: For numerical operations.
