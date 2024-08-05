@@ -56,7 +56,8 @@
 
 ## Git Repository Content:
 
-- The notebook does not explicitly mention the Git repository content, but it implies that the repository contains scripts for data loading, merging, EDA, and statistical analysis.
+- 5 CVE files in csv format from Kaggle
+- cybersecurity threat analysis.ipynb to document the analysis
 
 ## Dependencies and Libraries:
 
