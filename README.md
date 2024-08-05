@@ -8,14 +8,18 @@ Exploratory Data Analysis (EDA):
 - Data Structure and Cleaning: Overview of the dataset structure, removal of unnecessary columns, and conversion of date columns to datetime format.
 - Descriptive Statistics and Visualization: Generating summary statistics and visualizations such as bar plots, histograms, and heatmaps to understand data distributions and relationships.
 - Correlation Analysis: Calculating and visualizing correlations between numerical variables using heatmaps.
+
 Statistical Analysis:
 - T-Test and Chi-Squared Test: Functions and code for performing t-tests and chi-squared tests to compare means and examine relationships between variables.
+
 Clustering and Pattern Recognition:
 - Hierarchical Clustering: Code for hierarchical clustering and dendrogram visualization.
 - Patch Time Analysis: Calculation and visualization of the time taken to patch vulnerabilities, including histogram plots and binning strategies.
+
 Insights and Findings:
 - Identified patterns and trends in the cybersecurity threat data, such as product and CWE rankings, and patch time distributions.
 - Highlighted the importance of specific features and their relationships to vulnerability patching.
+
 Summary:
   - Product Vulnerabilities
     - Windows: Most affected product with 311 reported vulnerabilities.
