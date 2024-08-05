@@ -1,5 +1,36 @@
 # cybersecurity-threat-analysis
 
+## Summary:
+
+- Introduction: The notebook focuses on analyzing cybersecurity threat data, aiming to merge multiple CSV files, perform exploratory data analysis (EDA), and apply statistical and machine learning techniques to extract insights.
+- Data Loading and Merging: Code cells demonstrate how to load and merge multiple CSV files from a directory into a single DataFrame.
+- Exploratory Data Analysis (EDA):
+  - Data Structure and Cleaning: Overview of the dataset structure, removal of unnecessary columns, and conversion of date columns to datetime format.
+  - Descriptive Statistics and Visualization: Generating summary statistics and visualizations such as bar plots, histograms, and heatmaps to understand data distributions and relationships.
+  - Correlation Analysis: Calculating and visualizing correlations between numerical variables using heatmaps.
+- Statistical Analysis:
+  - T-Test and Chi-Squared Test: Functions and code for performing t-tests and chi-squared tests to compare means and examine relationships between variables.
+- Clustering and Pattern Recognition:
+  - Hierarchical Clustering: Code for hierarchical clustering and dendrogram visualization.
+  - Patch Time Analysis: Calculation and visualization of the time taken to patch vulnerabilities, including histogram plots and binning strategies.
+- Insights and Findings:
+  - Identified patterns and trends in the cybersecurity threat data, such as product and CWE rankings, and patch time distributions.
+  - Highlighted the importance of specific features and their relationships to vulnerability patching.
+
+Git Repository Content:
+
+- The notebook does not explicitly mention the Git repository content, but it implies that the repository contains scripts for data loading, merging, EDA, and statistical analysis.
+
+Dependencies and Libraries:
+
+- Pandas: For data manipulation and analysis.
+- NumPy: For numerical operations.
+- Matplotlib and Seaborn: For data visualization.
+- SciPy: For statistical tests and hierarchical clustering.
+- scikit-learn: For machine learning algorithms and imputation.
+- glob and os: For file handling and directory operations.
+
+
 
 In this project, I delved into the patterns and characteristics of vulnerabilities, their severity, the speed of patching, and temporal trends.
 
