@@ -1,7 +1,9 @@
 # cybersecurity-threat-analysis
 
 ## Introduction
-This analysis focuses on cybersecurity threat data, with an emphasis on merging multiple CSV files, conducting exploratory data analysis (EDA), and applying statistical and machine learning techniques to extract meaningful insights from the dataset. Let's commence!
+This analysis focuses on cybersecurity threat data, with an emphasis on merging multiple CSV files, conducting exploratory data analysis (EDA), and applying statistical and machine learning techniques to extract meaningful insights from the dataset. 
+
+Originial project from [Kaggle: Cybersecurity Risk (2022 CISA)](https://www.kaggle.com/datasets/thedevastator/exploring-cybersecurity-risk-via-2022-cisa-vulne/data)
 
 ## Objectives
 - Understand the structure and distribution of the cybersecurity dataset.
@@ -70,6 +72,7 @@ Statistical Analysis
 - scikit-learn: For machine learning algorithms and imputation.
 - glob and os: For file handling and directory operations.
 
+## License: 
 
-
-
+CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication
+No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information.
