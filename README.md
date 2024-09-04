@@ -72,6 +72,11 @@ Statistical Analysis
 - scikit-learn: For machine learning algorithms and imputation.
 - glob and os: For file handling and directory operations.
 
+## Acknowledgement
+
+https://github.com/hrbrmstr/cisa-known-exploited-vulns
+
+
 ## License: 
 
 CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication
